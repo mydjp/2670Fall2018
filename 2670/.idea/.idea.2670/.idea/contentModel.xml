@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-<<<<<<< Updated upstream
-    <e p="C:\Users\10545698\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_2670.1286215762.00" t="ExcludeRecursive" />
-    <e p="C:\Users\10545698\Documents\GItRepos\2670Fall2018\2670Fall2018\2670" t="IncludeRecursive">
-      <e p="2670.sln" t="IncludeFlat" />
-      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
-      <e p="Assets" t="Include">
-        <e p="Scenes" t="Include">
-          <e p="EventScript.cs" t="Include" />
-=======
     <e p="C:\Users\10545698\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_2670.1739705045.00" t="ExcludeRecursive" />
     <e p="C:\Users\10545698\Documents\GitRepos\2670Fall2018\2670" t="IncludeRecursive">
       <e p="2670.sln" t="IncludeFlat" />
@@ -20,10 +11,11 @@
         <e p="HealthBar.cs" t="Include" />
         <e p="IfStatements.cs" t="Include" />
         <e p="KillPlayer.cs" t="Include" />
+        <e p="NewEvent.cs" t="Include" />
         <e p="PlayerLives.cs" t="Include" />
         <e p="Scenes" t="Include">
+          <e p="EventScript.cs" t="Include" />
           <e p="PrefabData.cs" t="Include" />
->>>>>>> Stashed changes
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
