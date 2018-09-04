@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\10545698\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_2670.1739705045.00" t="ExcludeRecursive" />
-    <e p="C:\Users\10545698\Documents\GitRepos\2670Fall2018\2670" t="IncludeRecursive">
+    <e p="C:\Users\mydjp\.Rider2017.3\system\resharper-host\Local\Transient\ReSharperHost\v11\SolutionCaches\_2670.2022555492.00" t="ExcludeRecursive" />
+    <e p="C:\Users\mydjp\Documents\gitrepo\2670Fall2018\2670" t="IncludeRecursive">
       <e p="2670.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="EndGame.cs" t="Include" />
         <e p="EventBasedBehaviors" t="Include">
           <e p="DestroyEvent.cs" t="Include" />
           <e p="DisableEvent.cs" t="Include" />
@@ -20,6 +20,13 @@
         <e p="KillPlayer.cs" t="Include" />
         <e p="NewEvent.cs" t="Include" />
         <e p="PlayerLives.cs" t="Include" />
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="Scenes" t="Include">
           <e p="EventScript.cs" t="Include" />
           <e p="PrefabData.cs" t="Include" />
