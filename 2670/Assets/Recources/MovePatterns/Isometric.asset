@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dae92f28e460a3f47ae7decea97a2b65, type: 3}
+  m_Name: Isometric
+  m_EditorClassIdentifier: 
+  jumpSpeed: {fileID: 11400000, guid: 15be982a88d98c34b87f337135a54adf, type: 2}
+  gravity: {fileID: 11400000, guid: fea984a14aad3234b82e93437353bbdb, type: 2}
+  MoveX: {fileID: 11400000, guid: cc5331896bca8fc4fb394895e36ea3cf, type: 2}
+  MoveY: {fileID: 11400000, guid: 795f41fc34db97847a90eed2aed7cfab, type: 2}
+  MoveZ: {fileID: 11400000, guid: d5020d42b3aae084a879f04ce71e7ecc, type: 2}
+  RotX: {fileID: 11400000, guid: 795f41fc34db97847a90eed2aed7cfab, type: 2}
+  RotY: {fileID: 11400000, guid: 795f41fc34db97847a90eed2aed7cfab, type: 2}
+  RotZ: {fileID: 11400000, guid: 795f41fc34db97847a90eed2aed7cfab, type: 2}
