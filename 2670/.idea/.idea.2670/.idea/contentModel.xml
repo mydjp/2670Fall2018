@@ -28,10 +28,13 @@
           <e p="PrefabData.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
+          <e p="AiAgent.cs" t="Include" />
           <e p="CharMove.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="FloatInput.cs" t="Include" />
+          <e p="ForEachLoops.cs" t="Include" />
           <e p="MovePattern.cs" t="Include" />
+          <e p="RunCountDown.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />

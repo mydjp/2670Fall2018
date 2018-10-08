@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\10545698\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_Casual.-1949285198.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10545698\Documents\GitRepos\2670Fall2018\CasualGame\Casual" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="letters.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="ChangeColor.cs" t="Include" />
+          <e p="CharMove.cs" t="Include" />
+          <e p="ColorData.cs" t="Include" />
+          <e p="Draggable.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
+          <e p="InstanceObject.cs" t="Include" />
+          <e p="Letter.cs" t="Include" />
+          <e p="MatchID.cs" t="Include" />
+          <e p="MovePattern.cs" t="Include" />
+          <e p="NameID.cs" t="Include" />
+          <e p="ObjectID.cs" t="Include" />
+          <e p="PerpetualCounter.cs" t="Include" />
+          <e p="RunCountDown.cs" t="Include" />
+          <e p="TriggerEvent.cs" t="Include" />
+          <e p="Word.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Casual.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
