@@ -1,3 +1,6 @@
 [submodule "2670Fall2018/CasualGame/Casual/Assets"]
 	path = 2670Fall2018/CasualGame/Casual/Assets
 	url = https://github.com/mydjp/NavMeshComponents.git
+[submodule "CasualGame/Casual/Assets"]
+	path = CasualGame/Casual/Assets
+	url = https://github.com/mydjp/NavMeshComponents.git

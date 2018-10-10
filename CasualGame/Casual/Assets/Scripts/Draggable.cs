@@ -5,27 +5,38 @@ using UnityEngine;
 public class Draggable : MonoBehaviour
 {
 
-	private Vector3 currentPostion;
+	private Vector3 offsetPostion;
 	private Vector3 newPosistion;
-	private Camera  cam;
+	private Camera cam;
 
-	 void Start()
+	public bool CanDrag;
+
+
+
+	private void Start()
 	{
 		cam = Camera.main;
-		
+
 	}
 
-	private void OnMouseDown()
+	public IEnumerator OnMouseDown()
 	{
-		currentPostion = transform.position - cam.ScreenToWorldPoint(Input.mousePosition);
+		offsetPostion = transform.position - cam.ScreenToWorldPoint(Input.mousePosition);
+		yield return new WaitForFixedUpdate();
+		CanDrag = true;
+		while (CanDrag)
+		{
+			yield return new WaitForFixedUpdate();
+			newPosistion = cam.ScreenToWorldPoint(Input.mousePosition) + offsetPostion;
+			transform.position = newPosistion;
+		}
 	}
 
-
-	// Update is called once per frame
-	void OnMouseDrag ()
+	private void OnMouseUp()
 	{
-		newPosistion = currentPostion + cam.ScreenToWorldPoint(Input.mousePosition);
-		newPosistion.z = 0;
-		transform.position = newPosistion;
+		CanDrag = false;
 	}
 }
+
+
+

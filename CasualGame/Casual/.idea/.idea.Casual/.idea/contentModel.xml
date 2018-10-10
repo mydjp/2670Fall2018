@@ -20,6 +20,8 @@
           <e p="ObjectID.cs" t="Include" />
           <e p="PerpetualCounter.cs" t="Include" />
           <e p="RunCountDown.cs" t="Include" />
+          <e p="SnapOn.cs" t="Include" />
+          <e p="StartBehaviour.cs" t="Include" />
           <e p="TriggerEvent.cs" t="Include" />
           <e p="Word.cs" t="Include" />
         </e>
