@@ -13,6 +13,7 @@
           <e p="Draggable.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="InstanceObject.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
           <e p="Letter.cs" t="Include" />
           <e p="MatchID.cs" t="Include" />
           <e p="MovePattern.cs" t="Include" />
@@ -24,6 +25,7 @@
           <e p="StartBehaviour.cs" t="Include" />
           <e p="Store" t="Include">
             <e p="Objects.cs" t="Include" />
+            <e p="PurchasableObject.cs" t="Include" />
             <e p="Store.cs" t="Include" />
           </e>
           <e p="TriggerEvent.cs" t="Include" />
