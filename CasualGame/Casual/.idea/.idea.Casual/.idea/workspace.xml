@@ -11,23 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Draggable.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <marker date="1539202672200" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539202672200" expanded="true" signature="118:704" ph="{...}" />
-                <marker date="1539202672200" expanded="true" signature="253:281" ph="{...}" />
-                <marker date="1539202672200" expanded="true" signature="316:650" ph="{...}" />
-                <marker date="1539202672200" expanded="true" signature="480:647" ph="{...}" />
-                <marker date="1539202672200" expanded="true" signature="677:702" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CharMove.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharMove.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Store.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Store.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Store/Store.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="705">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <marker date="1539808002193" expanded="true" signature="6:44" ph="..." />
                 <marker date="1539808002193" expanded="true" signature="152:1271" ph="{...}" />
@@ -129,6 +112,21 @@
                 <marker date="1539808002193" expanded="true" signature="901:1269" ph="{...}" />
                 <marker date="1539808002193" expanded="true" signature="945:1263" ph="{...}" />
                 <marker date="1539808002193" expanded="true" signature="1058:1253" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PerpetualCounter.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PerpetualCounter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="24" />
+              <folding>
+                <marker date="1539027384049" expanded="false" signature="6:104" ph="..." />
+                <marker date="1539027384049" expanded="true" signature="152:388" ph="{...}" />
+                <marker date="1539027384049" expanded="true" signature="243:383" ph="{...}" />
+                <marker date="1539027384049" expanded="true" signature="270:374" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -225,6 +223,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -237,11 +240,6 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,11 +279,12 @@
       <workItem from="1539630808726" duration="3438000" />
       <workItem from="1539794422381" duration="42000" />
       <workItem from="1539803857071" duration="4180000" />
+      <workItem from="1540841946775" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22733000" />
+    <option name="totallyTimeSpent" value="22743000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -304,15 +303,15 @@
       <window_info anchor="right" id="Errors In Solution" order="0" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Run" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Terminal" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26865673" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.27132195" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="2" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="NuGet" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
@@ -328,12 +327,12 @@
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="9" />
       <window_info anchor="bottom" id="Unity" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Unit Tests" order="4" />
       <window_info anchor="bottom" id="Find" order="8" />
       <window_info anchor="right" id="Errors In Solution" order="0" />
@@ -341,7 +340,7 @@
       <window_info anchor="bottom" id="Terminal" order="6" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
@@ -396,12 +395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <marker date="1539202138969" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539202138969" expanded="true" signature="123:361" ph="{...}" />
-            <marker date="1539202138969" expanded="true" signature="208:264" ph="{...}" />
-            <marker date="1539202138969" expanded="true" signature="304:354" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -524,12 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <marker date="1539202138969" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539202138969" expanded="true" signature="123:361" ph="{...}" />
-            <marker date="1539202138969" expanded="true" signature="208:264" ph="{...}" />
-            <marker date="1539202138969" expanded="true" signature="304:354" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -656,8 +643,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PerpetualCounter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state>
+          <caret selection-end-line="24" />
           <folding>
             <marker date="1539027384049" expanded="false" signature="6:104" ph="..." />
             <marker date="1539027384049" expanded="true" signature="152:388" ph="{...}" />
@@ -671,12 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <marker date="1539202138969" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539202138969" expanded="true" signature="123:361" ph="{...}" />
-            <marker date="1539202138969" expanded="true" signature="208:264" ph="{...}" />
-            <marker date="1539202138969" expanded="true" signature="304:354" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -800,7 +781,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Store/Store.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
             <marker date="1539808002193" expanded="true" signature="6:44" ph="..." />
             <marker date="1539808002193" expanded="true" signature="152:1271" ph="{...}" />

@@ -23,13 +23,14 @@ public class Cammera : MonoBehaviour
 
 
 
-		if (Input.GetKeyDown("d"))
+		if (Input.GetKeyDown("s"))
 		{
 
 			pos.z += moveDistance;
 
+		}
 			transform.position = pos;
 
-		}
+		
 	}
 }

@@ -7,10 +7,10 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="Cammera.cs" t="Include" />
-          <e p="CharMove.cs" t="Include" />
-          <e p="FloatData.cs" t="Include" />
+          <e p="Collision.cs" t="Include" />
           <e p="Move.cs" t="Include" />
-          <e p="MovePattern.cs" t="Include" />
+          <e p="Score.cs" t="Include" />
+          <e p="Timer.cs" t="Include" />
         </e>
       </e>
       <e p="HyperCasual.sln" t="IncludeFlat" />
