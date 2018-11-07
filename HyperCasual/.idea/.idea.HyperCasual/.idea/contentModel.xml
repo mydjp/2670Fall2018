@@ -6,11 +6,17 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="ActionObject.cs" t="Include" />
+          <e p="AnyEvent.cs" t="Include" />
           <e p="Cammera.cs" t="Include" />
           <e p="Collision.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
           <e p="Move.cs" t="Include" />
           <e p="Score.cs" t="Include" />
           <e p="Timer.cs" t="Include" />
+          <e p="UpdateText.cs" t="Include" />
+          <e p="UserInput.cs" t="Include" />
         </e>
       </e>
       <e p="HyperCasual.sln" t="IncludeFlat" />
