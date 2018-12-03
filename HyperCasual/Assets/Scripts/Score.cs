@@ -23,11 +23,7 @@ public class Score : MonoBehaviour {
 			score++;
 		}
 		
-		if(col.gameObject.name == "Finish")
-		{
-			
-			print("You Win !!");
-		}
+	
 		
 	}
 }

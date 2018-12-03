@@ -21,12 +21,12 @@ public class Collision : MonoBehaviour
 			print("Shoud destory");
 		}
 		
-		if(col.gameObject.name == "Finish")
+		/*if(col.gameObject.name == "Finish")
 		{
 			
 			print("You Win !!");
 		}
-		
+		*/
 		
 	}
 }
