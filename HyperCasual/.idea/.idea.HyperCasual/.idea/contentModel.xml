@@ -10,12 +10,12 @@
           <e p="AnyEvent.cs" t="Include" />
           <e p="Cammera.cs" t="Include" />
           <e p="Collision.cs" t="Include" />
-          <e p="DestroyObj.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
           <e p="Move.cs" t="Include" />
           <e p="PerpetualCounter.cs" t="Include" />
           <e p="Score.cs" t="Include" />
+          <e p="Store.cs" t="Include" />
           <e p="Timer.cs" t="Include" />
           <e p="TriggerEvent.cs" t="Include" />
           <e p="UpdateText.cs" t="Include" />
